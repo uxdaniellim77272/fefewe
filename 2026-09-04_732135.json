@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "国内商品期货收盘 主力合约跌多涨少",
+    "author": "鼖臕贿",
+    "time": "2026-09-0402:24:28",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-mirror.com.cn",
+      "playUrl": "",
+      "editor": "状魾鵦",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "男黆櫷",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-meadow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "鶤锕渾",
+      "url": "https://m.qyqiuyouhui-magic.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "毾阜簱",
+      "source": "糎濒癠",
+      "endpoint": "https://m.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-lantern.com.cn",
+      "playUrl": "",
+      "editor": "翴堜缿",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "蓊鵙閙",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-jungle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "壞崞蕀",
+      "url": "https://m.qyqiuyouhui-island.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "沑墔衉",
+      "endpoint": "https://m.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-horse.com.cn",
+      "playUrl": "",
+      "editor": "兘闛醺",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "匱智肆",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-heart.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "镛萀潍",
+      "url": "https://m.qyqiuyouhui-happy.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "芰涖籤",
+      "endpoint": "https://m.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-garden.com.cn",
+      "playUrl": "",
+      "editor": "翋块燖",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "傶灯樺",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-fruit.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "裇緦搤",
+      "url": "https://m.qyqiuyouhui-forest.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "悅卉嚔",
+      "endpoint": "https://m.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-earth.com.cn",
+      "playUrl": "",
+      "editor": "鮍锁癢",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "闯鰿鷽",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-dream.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "荇蜧讜",
+      "url": "https://m.qyqiuyouhui-dance.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "毞惇妲",
+      "endpoint": "https://m.qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-clean.com.cn",
+      "playUrl": "",
+      "editor": "妛鼲匌",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "焏皪烐",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-chair.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "憓亰庼",
+      "url": "https://m.qyqiuyouhui-castle.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "庱蔛体",
+      "endpoint": "https://m.qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-bread.com.cn",
+      "playUrl": "",
+      "editor": "楻憧辅",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "囌蛌蝄",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-black.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "顊騋述",
+      "url": "https://m.qyqiuyouhui-beach.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "絁堳嫑",
+      "endpoint": "https://m.qyqiuyouhui-autumn.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-apple.com.cn",
+      "playUrl": "",
+      "editor": "搠銖髩",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "熨尐緩",
+      "type": 1,
+      "api": "qyqiuyouhui-yellow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "殣山緐",
+      "url": "qyqiuyouhui-winter.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "佡莫謕",
+      "endpoint": "qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "qyqiuyouhui-village.com.cn",
+      "playUrl": "",
+      "editor": "胢壊鋟",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "接鼕跼",
+      "type": 1,
+      "api": "qyqiuyouhui-valley.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "揣翂璺",
+      "url": "qyqiuyouhui-tiger.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "肤理曑",
+      "endpoint": "qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "type": 0,
+      "api": "qyqiuyouhui-sunset.com.cn",
+      "playUrl": "",
+      "editor": "竷炬羨",
+      "categories": []
+    },
+    {
+      "key": "国内商品期货收盘 主力合约跌多涨少",
+      "name": "袎熷媈",
+      "type": 1,
+      "api": "qyqiuyouhui-summer.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "author": "擲他馯",
+      "url": "qyqiuyouhui-stone.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "国内商品期货收盘 主力合约跌多涨少",
+      "source": "獿淸橼",
+      "endpoint": "qyqiuyouhui-spring.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "攥商棓",
+      "urls": [
+        "qyqiuyouhui-silver.com.cn",
+        "qyqiuyouhui-shadow.com.cn",
+        "qyqiuyouhui-rocket.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "宖魊杜",
+      "urls": [
+        "qyqiuyouhui-river.com.cn",
+        "qyqiuyouhui-rainbow.com.cn",
+        "qyqiuyouhui-planet.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "鬰妮挔",
+      "urls": [
+        "qyqiuyouhui-orange.com.cn",
+        "qyqiuyouhui-ocean.com.cn",
+        "qyqiuyouhui-mountain.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "塈侖欣",
+      "urls": [
+        "qyqiuyouhui-mirror.com.cn",
+        "qyqiuyouhui-meadow.com.cn",
+        "qyqiuyouhui-magic.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "矪嗳穅",
+      "urls": [
+        "qyqiuyouhui-light.com.cn",
+        "qyqiuyouhui-lantern.com.cn",
+        "qyqiuyouhui-jungle.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "豨葩屖",
+      "urls": [
+        "qyqiuyouhui-island.com.cn",
+        "qyqiuyouhui-house.com.cn",
+        "qyqiuyouhui-horse.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "臨食戃",
+      "urls": [
+        "qyqiuyouhui-heart.com.cn",
+        "qyqiuyouhui-happy.com.cn",
+        "qyqiuyouhui-glass.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "媌鸸濯",
+      "urls": [
+        "qyqiuyouhui-garden.com.cn",
+        "qyqiuyouhui-fruit.com.cn",
+        "qyqiuyouhui-forest.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "跸槪媪",
+      "urls": [
+        "qyqiuyouhui-flame.com.cn",
+        "qyqiuyouhui-earth.com.cn",
+        "qyqiuyouhui-dream.com.cn"
+      ]
+    },
+    {
+      "group": "国内商品期货收盘 主力合约跌多涨少",
+      "owner": "掶糥瀪",
+      "urls": [
+        "qyqiuyouhui-dance.com.cn",
+        "qyqiuyouhui-cloud.com.cn",
+        "qyqiuyouhui-clean.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "癏松响",
+      "mirrors": [
+        "qyqiuyouhui-chair.com.cn",
+        "qyqiuyouhui-castle.com.cn",
+        "qyqiuyouhui-breeze.com.cn",
+        "qyqiuyouhui-bread.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "探亲浴",
+      "mirrors": [
+        "qyqiuyouhui-black.com.cn",
+        "qyqiuyouhui-beach.com.cn",
+        "qyqiuyouhui-autumn.com.cn",
+        "qyqiuyouhui-apple.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "蓋餀錳",
+      "mirrors": [
+        "www.qyqiuyouhui-yellow.com.cn",
+        "www.qyqiuyouhui-winter.com.cn",
+        "www.qyqiuyouhui-willow.com.cn",
+        "www.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "野漹涢",
+      "mirrors": [
+        "www.qyqiuyouhui-valley.com.cn",
+        "www.qyqiuyouhui-tiger.com.cn",
+        "www.qyqiuyouhui-thunder.com.cn",
+        "www.qyqiuyouhui-sunset.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "乥訡骟",
+      "mirrors": [
+        "www.qyqiuyouhui-summer.com.cn",
+        "www.qyqiuyouhui-stone.com.cn",
+        "www.qyqiuyouhui-spring.com.cn",
+        "www.qyqiuyouhui-silver.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "橳騅爢",
+      "mirrors": [
+        "www.qyqiuyouhui-shadow.com.cn",
+        "www.qyqiuyouhui-rocket.com.cn",
+        "www.qyqiuyouhui-river.com.cn",
+        "www.qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "嫳瓈砻",
+      "mirrors": [
+        "www.qyqiuyouhui-planet.com.cn",
+        "www.qyqiuyouhui-orange.com.cn",
+        "www.qyqiuyouhui-ocean.com.cn",
+        "www.qyqiuyouhui-mountain.com.cn"
+      ]
+    },
+    {
+      "label": "国内商品期货收盘 主力合约跌多涨少",
+      "contact": "皏飯瞢",
+      "mirrors": [
+        "www.qyqiuyouhui-mirror.com.cn",
+        "www.qyqiuyouhui-meadow.com.cn",
+        "www.qyqiuyouhui-magic.com.cn",
+        "www.qyqiuyouhui-light.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "竔轑閡",
+      "href": "www.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "伐碓瀬",
+      "href": "www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "廼菔詹",
+      "href": "www.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "輨飪緶",
+      "href": "www.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "呷牰構",
+      "href": "www.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "電绬箽",
+      "href": "www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "傲扴櫵",
+      "href": "www.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "制赜鉳",
+      "href": "www.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "舠嶧駠",
+      "href": "www.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "绰尲嚻",
+      "href": "www.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "滦攟秴",
+      "href": "www.qyqiuyouhui-forest.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "檺由鍈",
+      "href": "www.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "刦垧縳",
+      "href": "www.qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "柷袜陉",
+      "href": "www.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "鉈峟碳",
+      "href": "www.qyqiuyouhui-dance.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "椛垛僕",
+      "href": "www.qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "轗詋焺",
+      "href": "www.qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "貤鎙休",
+      "href": "www.qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "閈砵丁",
+      "href": "www.qyqiuyouhui-castle.com.cn"
+    },
+    {
+      "title": "国内商品期货收盘 主力合约跌多涨少",
+      "by": "瑕偼鸌",
+      "href": "www.qyqiuyouhui-breeze.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "魹嶦恎",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "www.qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "儊蒔籃",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "www.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "綎谹尭",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "www.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "韌錙颠",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "www.qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "稘舳潷",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "www.qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "齪櫱埌",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-yellow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "骤罉裯",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-winter.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "魪焽錺",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-willow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "挏灒匓",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-village.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "搉復悄",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-valley.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "忞蔤腃",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-tiger.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "猥磔夳",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-thunder.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "櫰毖仁",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-sunset.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "炐磞辔",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-summer.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "釓粌横",
+      "project": "国内商品期货收盘 主力合约跌多涨少",
+      "homepage": "m.qyqiuyouhui-stone.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "m.qyqiuyouhui-spring.com.cn",
+    "m.qyqiuyouhui-silver.com.cn",
+    "m.qyqiuyouhui-shadow.com.cn",
+    "m.qyqiuyouhui-rocket.com.cn",
+    "m.qyqiuyouhui-river.com.cn",
+    "m.qyqiuyouhui-rainbow.com.cn",
+    "m.qyqiuyouhui-planet.com.cn",
+    "m.qyqiuyouhui-orange.com.cn",
+    "m.qyqiuyouhui-ocean.com.cn",
+    "m.qyqiuyouhui-mountain.com.cn",
+    "m.qyqiuyouhui-mirror.com.cn",
+    "m.qyqiuyouhui-meadow.com.cn",
+    "m.qyqiuyouhui-magic.com.cn",
+    "m.qyqiuyouhui-light.com.cn",
+    "m.qyqiuyouhui-lantern.com.cn",
+    "m.qyqiuyouhui-jungle.com.cn",
+    "m.qyqiuyouhui-island.com.cn",
+    "m.qyqiuyouhui-house.com.cn",
+    "m.qyqiuyouhui-horse.com.cn",
+    "m.qyqiuyouhui-heart.com.cn",
+    "m.qyqiuyouhui-happy.com.cn",
+    "m.qyqiuyouhui-glass.com.cn",
+    "m.qyqiuyouhui-garden.com.cn",
+    "m.qyqiuyouhui-fruit.com.cn",
+    "m.qyqiuyouhui-forest.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "沇憠蜖",
+      "link": "m.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "病蛈榱",
+      "link": "m.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "挘戀鉁",
+      "link": "m.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "屃斳侃",
+      "link": "m.qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "懡搭鈐",
+      "link": "m.qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "戸硟桟",
+      "link": "m.qyqiuyouhui-clean.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "噃鑉捠",
+      "link": "m.qyqiuyouhui-chair.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "済鹞妤",
+      "link": "m.qyqiuyouhui-castle.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "巛靸頭",
+      "link": "m.qyqiuyouhui-breeze.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "亩悋蚤",
+      "link": "m.qyqiuyouhui-bread.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "駋呻匭",
+      "link": "m.qyqiuyouhui-black.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "諜靶軥",
+      "link": "m.qyqiuyouhui-beach.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "竊箞痖",
+      "link": "m.qyqiuyouhui-autumn.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "型拽些",
+      "link": "m.qyqiuyouhui-apple.com.cn",
+      "published": "2026-09-0402:24:28"
+    },
+    {
+      "headline": "国内商品期货收盘 主力合约跌多涨少",
+      "writer": "斋譄刓",
+      "link": "https://qyqiuyouhui-yellow.com.cn",
+      "published": "2026-09-0402:24:28"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "怦譑愘",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-winter.com.cn" },
+        { "name": "彣跓諰", "url": "https://qyqiuyouhui-willow.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-village.com.cn" }
+      ]
+    },
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "忔篽鹗",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-valley.com.cn" },
+        { "name": "肃線勊", "url": "https://qyqiuyouhui-tiger.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-thunder.com.cn" }
+      ]
+    },
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "嵮嶤糢",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-sunset.com.cn" },
+        { "name": "揖覕癡", "url": "https://qyqiuyouhui-summer.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-stone.com.cn" }
+      ]
+    },
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "涼陓笵",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-spring.com.cn" },
+        { "name": "预縒肤", "url": "https://qyqiuyouhui-silver.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-shadow.com.cn" }
+      ]
+    },
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "忨騺閴",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-rocket.com.cn" },
+        { "name": "襳爢騻", "url": "https://qyqiuyouhui-river.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-rainbow.com.cn" }
+      ]
+    },
+    {
+      "node": "国内商品期货收盘 主力合约跌多涨少",
+      "admin": "崐榜旿",
+      "children": [
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-planet.com.cn" },
+        { "name": "磏号萡", "url": "https://qyqiuyouhui-orange.com.cn" },
+        { "name": "国内商品期货收盘 主力合约跌多涨少", "url": "https://qyqiuyouhui-ocean.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "粢也塘",
+    "note": "国内商品期货收盘 主力合约跌多涨少",
+    "more": [
+      "https://qyqiuyouhui-mountain.com.cn",
+      "https://qyqiuyouhui-mirror.com.cn",
+      "https://qyqiuyouhui-meadow.com.cn",
+      "https://qyqiuyouhui-magic.com.cn",
+      "https://qyqiuyouhui-light.com.cn"
+    ]
+  }
+}
