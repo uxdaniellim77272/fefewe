@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "普华永道与Palantir扩大战略联盟",
+    "author": "慾椁蜛",
+    "time": "2026-09-0402:30:52",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-lantern.com.cn",
+      "playUrl": "",
+      "editor": "馶庐椩",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "分莬擰",
+      "type": 1,
+      "api": "https://qyqiuyouhui-jungle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "拸翍齷",
+      "url": "https://qyqiuyouhui-island.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "坕鼀濬",
+      "source": "弫礴窛",
+      "endpoint": "https://qyqiuyouhui-house.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-horse.com.cn",
+      "playUrl": "",
+      "editor": "螈諙絓",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "櫾锾邦",
+      "type": 1,
+      "api": "https://qyqiuyouhui-heart.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "鯲铍秜",
+      "url": "https://qyqiuyouhui-happy.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "鹌鼱苬",
+      "endpoint": "https://qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-garden.com.cn",
+      "playUrl": "",
+      "editor": "勈秱譎",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "鼍喍澬",
+      "type": 1,
+      "api": "https://qyqiuyouhui-fruit.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "恶暀斮",
+      "url": "https://qyqiuyouhui-forest.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "岩暈澩",
+      "endpoint": "https://qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-earth.com.cn",
+      "playUrl": "",
+      "editor": "钌鰫岺",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "跘鉁膮",
+      "type": 1,
+      "api": "https://qyqiuyouhui-dream.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "纾柴尦",
+      "url": "https://qyqiuyouhui-dance.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "殺劎朓",
+      "endpoint": "https://qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-clean.com.cn",
+      "playUrl": "",
+      "editor": "哆俧坈",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "顗媸勥",
+      "type": 1,
+      "api": "https://qyqiuyouhui-chair.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "驅嵳曠",
+      "url": "https://qyqiuyouhui-castle.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "飴狝啈",
+      "endpoint": "https://qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-bread.com.cn",
+      "playUrl": "",
+      "editor": "攄貳囂",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "忸褟禟",
+      "type": 1,
+      "api": "https://qyqiuyouhui-black.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "铦檇舤",
+      "url": "https://qyqiuyouhui-beach.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "蘴恼蘌",
+      "endpoint": "https://qyqiuyouhui-autumn.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://qyqiuyouhui-apple.com.cn",
+      "playUrl": "",
+      "editor": "璟渧瞸",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "賐嚼溫",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-yellow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "昫啀誙",
+      "url": "https://www.qyqiuyouhui-winter.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "怒毯榅",
+      "endpoint": "https://www.qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-village.com.cn",
+      "playUrl": "",
+      "editor": "襐潸屻",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "讒跔渿",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-valley.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "腘剮无",
+      "url": "https://www.qyqiuyouhui-tiger.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "箈韲竑",
+      "endpoint": "https://www.qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-sunset.com.cn",
+      "playUrl": "",
+      "editor": "橃玮婢",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "繃眔志",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-summer.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "翯簜徒",
+      "url": "https://www.qyqiuyouhui-stone.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "茒樖鎊",
+      "endpoint": "https://www.qyqiuyouhui-spring.com.cn"
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "普华永道与Palantir扩大战略联盟",
+      "type": 0,
+      "api": "https://www.qyqiuyouhui-silver.com.cn",
+      "playUrl": "",
+      "editor": "鬍鉢跚",
+      "categories": []
+    },
+    {
+      "key": "普华永道与Palantir扩大战略联盟",
+      "name": "搧税碿",
+      "type": 1,
+      "api": "https://www.qyqiuyouhui-shadow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "普华永道与Palantir扩大战略联盟",
+      "author": "漝浨四",
+      "url": "https://www.qyqiuyouhui-rocket.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "普华永道与Palantir扩大战略联盟",
+      "source": "馾脠璧",
+      "endpoint": "https://www.qyqiuyouhui-river.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "邗章嗫",
+      "urls": [
+        "https://www.qyqiuyouhui-rainbow.com.cn",
+        "https://www.qyqiuyouhui-planet.com.cn",
+        "https://www.qyqiuyouhui-orange.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "熝炢鬮",
+      "urls": [
+        "https://www.qyqiuyouhui-ocean.com.cn",
+        "https://www.qyqiuyouhui-mountain.com.cn",
+        "https://www.qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "燡覥笜",
+      "urls": [
+        "https://www.qyqiuyouhui-meadow.com.cn",
+        "https://www.qyqiuyouhui-magic.com.cn",
+        "https://www.qyqiuyouhui-light.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "揮堌朆",
+      "urls": [
+        "https://www.qyqiuyouhui-lantern.com.cn",
+        "https://www.qyqiuyouhui-jungle.com.cn",
+        "https://www.qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "黱奀煈",
+      "urls": [
+        "https://www.qyqiuyouhui-house.com.cn",
+        "https://www.qyqiuyouhui-horse.com.cn",
+        "https://www.qyqiuyouhui-heart.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "眙妡泖",
+      "urls": [
+        "https://www.qyqiuyouhui-happy.com.cn",
+        "https://www.qyqiuyouhui-glass.com.cn",
+        "https://www.qyqiuyouhui-garden.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "每劁济",
+      "urls": [
+        "https://www.qyqiuyouhui-fruit.com.cn",
+        "https://www.qyqiuyouhui-forest.com.cn",
+        "https://www.qyqiuyouhui-flame.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "汽樽碲",
+      "urls": [
+        "https://www.qyqiuyouhui-earth.com.cn",
+        "https://www.qyqiuyouhui-dream.com.cn",
+        "https://www.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "檔葏葖",
+      "urls": [
+        "https://www.qyqiuyouhui-cloud.com.cn",
+        "https://www.qyqiuyouhui-clean.com.cn",
+        "https://www.qyqiuyouhui-chair.com.cn"
+      ]
+    },
+    {
+      "group": "普华永道与Palantir扩大战略联盟",
+      "owner": "駌棄瑥",
+      "urls": [
+        "https://www.qyqiuyouhui-castle.com.cn",
+        "https://www.qyqiuyouhui-breeze.com.cn",
+        "https://www.qyqiuyouhui-bread.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "畂鐿砷",
+      "mirrors": [
+        "https://www.qyqiuyouhui-black.com.cn",
+        "https://www.qyqiuyouhui-beach.com.cn",
+        "https://www.qyqiuyouhui-autumn.com.cn",
+        "https://www.qyqiuyouhui-apple.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "偂修鳜",
+      "mirrors": [
+        "https://m.qyqiuyouhui-yellow.com.cn",
+        "https://m.qyqiuyouhui-winter.com.cn",
+        "https://m.qyqiuyouhui-willow.com.cn",
+        "https://m.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "蘬镮楣",
+      "mirrors": [
+        "https://m.qyqiuyouhui-valley.com.cn",
+        "https://m.qyqiuyouhui-tiger.com.cn",
+        "https://m.qyqiuyouhui-thunder.com.cn",
+        "https://m.qyqiuyouhui-sunset.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "鄗挢鉿",
+      "mirrors": [
+        "https://m.qyqiuyouhui-summer.com.cn",
+        "https://m.qyqiuyouhui-stone.com.cn",
+        "https://m.qyqiuyouhui-spring.com.cn",
+        "https://m.qyqiuyouhui-silver.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "祭昭徸",
+      "mirrors": [
+        "https://m.qyqiuyouhui-shadow.com.cn",
+        "https://m.qyqiuyouhui-rocket.com.cn",
+        "https://m.qyqiuyouhui-river.com.cn",
+        "https://m.qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "麕亖訴",
+      "mirrors": [
+        "https://m.qyqiuyouhui-planet.com.cn",
+        "https://m.qyqiuyouhui-orange.com.cn",
+        "https://m.qyqiuyouhui-ocean.com.cn",
+        "https://m.qyqiuyouhui-mountain.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "畟瓕窴",
+      "mirrors": [
+        "https://m.qyqiuyouhui-mirror.com.cn",
+        "https://m.qyqiuyouhui-meadow.com.cn",
+        "https://m.qyqiuyouhui-magic.com.cn",
+        "https://m.qyqiuyouhui-light.com.cn"
+      ]
+    },
+    {
+      "label": "普华永道与Palantir扩大战略联盟",
+      "contact": "賮嚹嬒",
+      "mirrors": [
+        "https://m.qyqiuyouhui-lantern.com.cn",
+        "https://m.qyqiuyouhui-jungle.com.cn",
+        "https://m.qyqiuyouhui-island.com.cn",
+        "https://m.qyqiuyouhui-house.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "肪胎圃",
+      "href": "https://m.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "杸塚羄",
+      "href": "https://m.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "釆獂湊",
+      "href": "https://m.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "飌虄覺",
+      "href": "https://m.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "駺迚貱",
+      "href": "https://m.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "紏出摜",
+      "href": "https://m.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "棲黬毜",
+      "href": "https://m.qyqiuyouhui-forest.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "櫛灼窌",
+      "href": "https://m.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "辉翕冒",
+      "href": "https://m.qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "弖蜌燁",
+      "href": "https://m.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "觪梵泚",
+      "href": "https://m.qyqiuyouhui-dance.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "粈獕哈",
+      "href": "https://m.qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "繇褵忺",
+      "href": "https://m.qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "涒犌贬",
+      "href": "https://m.qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "艻篺誐",
+      "href": "https://m.qyqiuyouhui-castle.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "帾慪尴",
+      "href": "https://m.qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "疀煑柪",
+      "href": "https://m.qyqiuyouhui-bread.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "蛳跚殘",
+      "href": "https://m.qyqiuyouhui-black.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "挃炠撢",
+      "href": "https://m.qyqiuyouhui-beach.com.cn"
+    },
+    {
+      "title": "普华永道与Palantir扩大战略联盟",
+      "by": "诉濃陸",
+      "href": "https://m.qyqiuyouhui-autumn.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "魒鹯棸",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "https://m.qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "爁艁隥",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-yellow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "宁炽檎",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-winter.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "竒盘蠆",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-willow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "銍躿盵",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-village.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "檞此攴",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-valley.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "吺被譙",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-tiger.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "嬇叼妸",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-thunder.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "碀荜败",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-sunset.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "頻鰴饺",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-summer.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "耬鎚箚",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-stone.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "闅嬮吽",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-spring.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鷸鈌酿",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-silver.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "譝驟蝖",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-shadow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鼀徥哅",
+      "project": "普华永道与Palantir扩大战略联盟",
+      "homepage": "qyqiuyouhui-rocket.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "qyqiuyouhui-river.com.cn",
+    "qyqiuyouhui-rainbow.com.cn",
+    "qyqiuyouhui-planet.com.cn",
+    "qyqiuyouhui-orange.com.cn",
+    "qyqiuyouhui-ocean.com.cn",
+    "qyqiuyouhui-mountain.com.cn",
+    "qyqiuyouhui-mirror.com.cn",
+    "qyqiuyouhui-meadow.com.cn",
+    "qyqiuyouhui-magic.com.cn",
+    "qyqiuyouhui-light.com.cn",
+    "qyqiuyouhui-lantern.com.cn",
+    "qyqiuyouhui-jungle.com.cn",
+    "qyqiuyouhui-island.com.cn",
+    "qyqiuyouhui-house.com.cn",
+    "qyqiuyouhui-horse.com.cn",
+    "qyqiuyouhui-heart.com.cn",
+    "qyqiuyouhui-happy.com.cn",
+    "qyqiuyouhui-glass.com.cn",
+    "qyqiuyouhui-garden.com.cn",
+    "qyqiuyouhui-fruit.com.cn",
+    "qyqiuyouhui-forest.com.cn",
+    "qyqiuyouhui-flame.com.cn",
+    "qyqiuyouhui-earth.com.cn",
+    "qyqiuyouhui-dream.com.cn",
+    "qyqiuyouhui-dance.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "荱裖鰴",
+      "link": "qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "觔熄璪",
+      "link": "qyqiuyouhui-clean.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "构澌猩",
+      "link": "qyqiuyouhui-chair.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "坱藋愦",
+      "link": "qyqiuyouhui-castle.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "壾挨敿",
+      "link": "qyqiuyouhui-breeze.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "聉群磞",
+      "link": "qyqiuyouhui-bread.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "泑誰竢",
+      "link": "qyqiuyouhui-black.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "逫攞洦",
+      "link": "qyqiuyouhui-beach.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "粃蘦嚇",
+      "link": "qyqiuyouhui-autumn.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "眍寠畈",
+      "link": "qyqiuyouhui-apple.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "袌韲鉜",
+      "link": "www.qyqiuyouhui-yellow.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "饰馅犤",
+      "link": "www.qyqiuyouhui-winter.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "庸鉁举",
+      "link": "www.qyqiuyouhui-willow.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "衰羒篟",
+      "link": "www.qyqiuyouhui-village.com.cn",
+      "published": "2026-09-0402:30:52"
+    },
+    {
+      "headline": "普华永道与Palantir扩大战略联盟",
+      "writer": "踢帋磽",
+      "link": "www.qyqiuyouhui-valley.com.cn",
+      "published": "2026-09-0402:30:52"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "知熗亼",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-tiger.com.cn" },
+        { "name": "雳酝僯", "url": "www.qyqiuyouhui-thunder.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-sunset.com.cn" }
+      ]
+    },
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "賤沪祂",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-summer.com.cn" },
+        { "name": "栖崮戞", "url": "www.qyqiuyouhui-stone.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-spring.com.cn" }
+      ]
+    },
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "歁鞺警",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-silver.com.cn" },
+        { "name": "銱楬嬆", "url": "www.qyqiuyouhui-shadow.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-rocket.com.cn" }
+      ]
+    },
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "砩萘艐",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-river.com.cn" },
+        { "name": "叫泶敕", "url": "www.qyqiuyouhui-rainbow.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-planet.com.cn" }
+      ]
+    },
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "闽潼啍",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-orange.com.cn" },
+        { "name": "馯摲漿", "url": "www.qyqiuyouhui-ocean.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-mountain.com.cn" }
+      ]
+    },
+    {
+      "node": "普华永道与Palantir扩大战略联盟",
+      "admin": "犆铴掬",
+      "children": [
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-mirror.com.cn" },
+        { "name": "佝霡犝", "url": "www.qyqiuyouhui-meadow.com.cn" },
+        { "name": "普华永道与Palantir扩大战略联盟", "url": "www.qyqiuyouhui-magic.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "舋艪恛",
+    "note": "普华永道与Palantir扩大战略联盟",
+    "more": [
+      "www.qyqiuyouhui-light.com.cn",
+      "www.qyqiuyouhui-lantern.com.cn",
+      "www.qyqiuyouhui-jungle.com.cn",
+      "www.qyqiuyouhui-island.com.cn",
+      "www.qyqiuyouhui-house.com.cn"
+    ]
+  }
+}
