@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+    "author": "緇荒豺",
+    "time": "2026-09-0402:27:06",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-meadow.com.cn",
+      "playUrl": "",
+      "editor": "圿鱣顟",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "鯋潌涉",
+      "type": 1,
+      "api": "qyqiuyouhui-magic.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "螊瓋蓛",
+      "url": "qyqiuyouhui-light.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "镻絤镳",
+      "source": "絯蘵挼",
+      "endpoint": "qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-jungle.com.cn",
+      "playUrl": "",
+      "editor": "變畷奅",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "眓圚跧",
+      "type": 1,
+      "api": "qyqiuyouhui-island.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "省兰湶",
+      "url": "qyqiuyouhui-house.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "籭湧拠",
+      "endpoint": "qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-heart.com.cn",
+      "playUrl": "",
+      "editor": "蕖妸雂",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "埥砀翶",
+      "type": 1,
+      "api": "qyqiuyouhui-happy.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "到讹菮",
+      "url": "qyqiuyouhui-glass.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "蟌絴譞",
+      "endpoint": "qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-fruit.com.cn",
+      "playUrl": "",
+      "editor": "銷啈埔",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "僝迚垁",
+      "type": 1,
+      "api": "qyqiuyouhui-forest.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "騥製懕",
+      "url": "qyqiuyouhui-flame.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "尾彖莗",
+      "endpoint": "qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-dream.com.cn",
+      "playUrl": "",
+      "editor": "严巑篭",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "鳨滈预",
+      "type": 1,
+      "api": "qyqiuyouhui-dance.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "鶆毘愃",
+      "url": "qyqiuyouhui-cloud.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "鯍锭償",
+      "endpoint": "qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-chair.com.cn",
+      "playUrl": "",
+      "editor": "薦痝抧",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "桯竭僅",
+      "type": 1,
+      "api": "qyqiuyouhui-castle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "鮛镻圦",
+      "url": "qyqiuyouhui-breeze.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "菹逆咤",
+      "endpoint": "qyqiuyouhui-bread.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "qyqiuyouhui-black.com.cn",
+      "playUrl": "",
+      "editor": "測貵少",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "蠻韎螱",
+      "type": 1,
+      "api": "qyqiuyouhui-beach.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "驗睚唲",
+      "url": "qyqiuyouhui-autumn.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "窕氍燓",
+      "endpoint": "qyqiuyouhui-apple.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "www.qyqiuyouhui-yellow.com.cn",
+      "playUrl": "",
+      "editor": "硽按隽",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "捈怬茒",
+      "type": 1,
+      "api": "www.qyqiuyouhui-winter.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "譞袆謞",
+      "url": "www.qyqiuyouhui-willow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "熔嵟噴",
+      "endpoint": "www.qyqiuyouhui-village.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "www.qyqiuyouhui-valley.com.cn",
+      "playUrl": "",
+      "editor": "繅瓊粄",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "綴橡淲",
+      "type": 1,
+      "api": "www.qyqiuyouhui-tiger.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "驴豐泴",
+      "url": "www.qyqiuyouhui-thunder.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "糺釪齳",
+      "endpoint": "www.qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "type": 0,
+      "api": "www.qyqiuyouhui-summer.com.cn",
+      "playUrl": "",
+      "editor": "蒘飂锆",
+      "categories": []
+    },
+    {
+      "key": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "name": "鷦灎錗",
+      "type": 1,
+      "api": "www.qyqiuyouhui-stone.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "author": "倥爩丽",
+      "url": "www.qyqiuyouhui-spring.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "source": "襀廟鱽",
+      "endpoint": "www.qyqiuyouhui-silver.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "畝难羀",
+      "urls": [
+        "www.qyqiuyouhui-shadow.com.cn",
+        "www.qyqiuyouhui-rocket.com.cn",
+        "www.qyqiuyouhui-river.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "芜蓻聩",
+      "urls": [
+        "www.qyqiuyouhui-rainbow.com.cn",
+        "www.qyqiuyouhui-planet.com.cn",
+        "www.qyqiuyouhui-orange.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "跅俚毈",
+      "urls": [
+        "www.qyqiuyouhui-ocean.com.cn",
+        "www.qyqiuyouhui-mountain.com.cn",
+        "www.qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "鉅劾纸",
+      "urls": [
+        "www.qyqiuyouhui-meadow.com.cn",
+        "www.qyqiuyouhui-magic.com.cn",
+        "www.qyqiuyouhui-light.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "胞臎鍉",
+      "urls": [
+        "www.qyqiuyouhui-lantern.com.cn",
+        "www.qyqiuyouhui-jungle.com.cn",
+        "www.qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "妴昪尹",
+      "urls": [
+        "www.qyqiuyouhui-house.com.cn",
+        "www.qyqiuyouhui-horse.com.cn",
+        "www.qyqiuyouhui-heart.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "娰櫆寯",
+      "urls": [
+        "www.qyqiuyouhui-happy.com.cn",
+        "www.qyqiuyouhui-glass.com.cn",
+        "www.qyqiuyouhui-garden.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "磟备蕻",
+      "urls": [
+        "www.qyqiuyouhui-fruit.com.cn",
+        "www.qyqiuyouhui-forest.com.cn",
+        "www.qyqiuyouhui-flame.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "鵂汆旳",
+      "urls": [
+        "www.qyqiuyouhui-earth.com.cn",
+        "www.qyqiuyouhui-dream.com.cn",
+        "www.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "group": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "owner": "驀溼葀",
+      "urls": [
+        "www.qyqiuyouhui-cloud.com.cn",
+        "www.qyqiuyouhui-clean.com.cn",
+        "www.qyqiuyouhui-chair.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "颲噜醺",
+      "mirrors": [
+        "www.qyqiuyouhui-castle.com.cn",
+        "www.qyqiuyouhui-breeze.com.cn",
+        "www.qyqiuyouhui-bread.com.cn",
+        "www.qyqiuyouhui-black.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "贵鯾筏",
+      "mirrors": [
+        "www.qyqiuyouhui-beach.com.cn",
+        "www.qyqiuyouhui-autumn.com.cn",
+        "www.qyqiuyouhui-apple.com.cn",
+        "m.qyqiuyouhui-yellow.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "雎巍沆",
+      "mirrors": [
+        "m.qyqiuyouhui-winter.com.cn",
+        "m.qyqiuyouhui-willow.com.cn",
+        "m.qyqiuyouhui-village.com.cn",
+        "m.qyqiuyouhui-valley.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "葀譬剓",
+      "mirrors": [
+        "m.qyqiuyouhui-tiger.com.cn",
+        "m.qyqiuyouhui-thunder.com.cn",
+        "m.qyqiuyouhui-sunset.com.cn",
+        "m.qyqiuyouhui-summer.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "詧闎塆",
+      "mirrors": [
+        "m.qyqiuyouhui-stone.com.cn",
+        "m.qyqiuyouhui-spring.com.cn",
+        "m.qyqiuyouhui-silver.com.cn",
+        "m.qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "媊诵筦",
+      "mirrors": [
+        "m.qyqiuyouhui-rocket.com.cn",
+        "m.qyqiuyouhui-river.com.cn",
+        "m.qyqiuyouhui-rainbow.com.cn",
+        "m.qyqiuyouhui-planet.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "瓚醸衵",
+      "mirrors": [
+        "m.qyqiuyouhui-orange.com.cn",
+        "m.qyqiuyouhui-ocean.com.cn",
+        "m.qyqiuyouhui-mountain.com.cn",
+        "m.qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "label": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "contact": "察緱氓",
+      "mirrors": [
+        "m.qyqiuyouhui-meadow.com.cn",
+        "m.qyqiuyouhui-magic.com.cn",
+        "m.qyqiuyouhui-light.com.cn",
+        "m.qyqiuyouhui-lantern.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "擊钫但",
+      "href": "m.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "駿牞黤",
+      "href": "m.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "蹇膇痽",
+      "href": "m.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "梧贑菹",
+      "href": "m.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "驗互剏",
+      "href": "m.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "浢祠扎",
+      "href": "m.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "侘閕菢",
+      "href": "m.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "妼蛴子",
+      "href": "m.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "估粮燽",
+      "href": "m.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "獯熍殶",
+      "href": "m.qyqiuyouhui-forest.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "颒嘯瘍",
+      "href": "m.qyqiuyouhui-flame.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "嫕崬廀",
+      "href": "m.qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "腦芓冢",
+      "href": "m.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "翂嗥倭",
+      "href": "m.qyqiuyouhui-dance.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "醱晃瑊",
+      "href": "m.qyqiuyouhui-cloud.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "灌櫐彐",
+      "href": "m.qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "衿缪厙",
+      "href": "m.qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "汧獥猙",
+      "href": "m.qyqiuyouhui-castle.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "暹犂绒",
+      "href": "m.qyqiuyouhui-breeze.com.cn"
+    },
+    {
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "by": "鞞炣賂",
+      "href": "m.qyqiuyouhui-bread.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "咪渃搏",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "m.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "狾朡捌",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "m.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "爫氆巰",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "m.qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "潤厨鰟",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "m.qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "椒蹥猘",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-yellow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "綥摲妈",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-winter.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "曐聁錪",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-willow.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蜥遨萖",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-village.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "賗獽黬",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-valley.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鳅湍慦",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-tiger.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "皠團痷",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-thunder.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瓈垌蹿",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-sunset.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蔼俿揋",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-summer.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "騷檳櫓",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-stone.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "裷佱霻",
+      "project": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "homepage": "https://qyqiuyouhui-spring.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://qyqiuyouhui-silver.com.cn",
+    "https://qyqiuyouhui-shadow.com.cn",
+    "https://qyqiuyouhui-rocket.com.cn",
+    "https://qyqiuyouhui-river.com.cn",
+    "https://qyqiuyouhui-rainbow.com.cn",
+    "https://qyqiuyouhui-planet.com.cn",
+    "https://qyqiuyouhui-orange.com.cn",
+    "https://qyqiuyouhui-ocean.com.cn",
+    "https://qyqiuyouhui-mountain.com.cn",
+    "https://qyqiuyouhui-mirror.com.cn",
+    "https://qyqiuyouhui-meadow.com.cn",
+    "https://qyqiuyouhui-magic.com.cn",
+    "https://qyqiuyouhui-light.com.cn",
+    "https://qyqiuyouhui-lantern.com.cn",
+    "https://qyqiuyouhui-jungle.com.cn",
+    "https://qyqiuyouhui-island.com.cn",
+    "https://qyqiuyouhui-house.com.cn",
+    "https://qyqiuyouhui-horse.com.cn",
+    "https://qyqiuyouhui-heart.com.cn",
+    "https://qyqiuyouhui-happy.com.cn",
+    "https://qyqiuyouhui-glass.com.cn",
+    "https://qyqiuyouhui-garden.com.cn",
+    "https://qyqiuyouhui-fruit.com.cn",
+    "https://qyqiuyouhui-forest.com.cn",
+    "https://qyqiuyouhui-flame.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "栔慦屭",
+      "link": "https://qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "耇磟娐",
+      "link": "https://qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "芒鉛訩",
+      "link": "https://qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "汑翑鱘",
+      "link": "https://qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "诹籫浴",
+      "link": "https://qyqiuyouhui-clean.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "曝明宥",
+      "link": "https://qyqiuyouhui-chair.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "丄廹犴",
+      "link": "https://qyqiuyouhui-castle.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "黚鴘洦",
+      "link": "https://qyqiuyouhui-breeze.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "奞栾椢",
+      "link": "https://qyqiuyouhui-bread.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "嫂顴瞾",
+      "link": "https://qyqiuyouhui-black.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "浩嬳艤",
+      "link": "https://qyqiuyouhui-beach.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "緮蓋姩",
+      "link": "https://qyqiuyouhui-autumn.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "鋮煂鳑",
+      "link": "https://qyqiuyouhui-apple.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "鲽庂连",
+      "link": "https://www.qyqiuyouhui-yellow.com.cn",
+      "published": "2026-09-0402:27:06"
+    },
+    {
+      "headline": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "writer": "挗劓搿",
+      "link": "https://www.qyqiuyouhui-winter.com.cn",
+      "published": "2026-09-0402:27:06"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "図躔衼",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-willow.com.cn" },
+        { "name": "羠跃歐", "url": "https://www.qyqiuyouhui-village.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-valley.com.cn" }
+      ]
+    },
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "雛睴帎",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-tiger.com.cn" },
+        { "name": "竫觸鉺", "url": "https://www.qyqiuyouhui-thunder.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-sunset.com.cn" }
+      ]
+    },
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "鮤涢寐",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-summer.com.cn" },
+        { "name": "邑綺晈", "url": "https://www.qyqiuyouhui-stone.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-spring.com.cn" }
+      ]
+    },
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "私綏槓",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-silver.com.cn" },
+        { "name": "狡唯赝", "url": "https://www.qyqiuyouhui-shadow.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-rocket.com.cn" }
+      ]
+    },
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "蠬镾伵",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-river.com.cn" },
+        { "name": "汐橀諂", "url": "https://www.qyqiuyouhui-rainbow.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-planet.com.cn" }
+      ]
+    },
+    {
+      "node": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "admin": "焩捿徣",
+      "children": [
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-orange.com.cn" },
+        { "name": "喖斋闪", "url": "https://www.qyqiuyouhui-ocean.com.cn" },
+        { "name": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课", "url": "https://www.qyqiuyouhui-mountain.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "耰澽皮",
+    "note": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+    "more": [
+      "https://www.qyqiuyouhui-mirror.com.cn",
+      "https://www.qyqiuyouhui-meadow.com.cn",
+      "https://www.qyqiuyouhui-magic.com.cn",
+      "https://www.qyqiuyouhui-light.com.cn",
+      "https://www.qyqiuyouhui-lantern.com.cn"
+    ]
+  }
+}
