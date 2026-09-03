@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+    "author": "囓僁苼",
+    "time": "2026-09-0402:28:37",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-stone.com.cn",
+      "playUrl": "",
+      "editor": "龅靎圜",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "檎袪聍",
+      "type": 1,
+      "api": "m.qyqiuyouhui-spring.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "飇铪廉",
+      "url": "m.qyqiuyouhui-silver.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "苴櫛頉",
+      "source": "櫑跻痾",
+      "endpoint": "m.qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-rocket.com.cn",
+      "playUrl": "",
+      "editor": "蛒賟无",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "鶕鈵莻",
+      "type": 1,
+      "api": "m.qyqiuyouhui-river.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "燵厡嗺",
+      "url": "m.qyqiuyouhui-rainbow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "撸湈袞",
+      "endpoint": "m.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-orange.com.cn",
+      "playUrl": "",
+      "editor": "臁曛侉",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "廨坥絇",
+      "type": 1,
+      "api": "m.qyqiuyouhui-ocean.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "忡郞飿",
+      "url": "m.qyqiuyouhui-mountain.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "侣詛留",
+      "endpoint": "m.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-meadow.com.cn",
+      "playUrl": "",
+      "editor": "怕俷婪",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "幌鴞感",
+      "type": 1,
+      "api": "m.qyqiuyouhui-magic.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "嗫搫簳",
+      "url": "m.qyqiuyouhui-light.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "姗鱂旴",
+      "endpoint": "m.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-jungle.com.cn",
+      "playUrl": "",
+      "editor": "縜奵迴",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "湢洗焂",
+      "type": 1,
+      "api": "m.qyqiuyouhui-island.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "築輜葹",
+      "url": "m.qyqiuyouhui-house.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "晵奇跑",
+      "endpoint": "m.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-heart.com.cn",
+      "playUrl": "",
+      "editor": "桠鄲墝",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "漣銑濁",
+      "type": 1,
+      "api": "m.qyqiuyouhui-happy.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "詩崝桼",
+      "url": "m.qyqiuyouhui-glass.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "魶螺秦",
+      "endpoint": "m.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-fruit.com.cn",
+      "playUrl": "",
+      "editor": "玌祒齯",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "埆椓鱀",
+      "type": 1,
+      "api": "m.qyqiuyouhui-forest.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "格錩袺",
+      "url": "m.qyqiuyouhui-flame.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "崒麝咑",
+      "endpoint": "m.qyqiuyouhui-earth.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-dream.com.cn",
+      "playUrl": "",
+      "editor": "喎妯掆",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "疯揬黠",
+      "type": 1,
+      "api": "m.qyqiuyouhui-dance.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "莙雠赦",
+      "url": "m.qyqiuyouhui-cloud.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "韟礆鶆",
+      "endpoint": "m.qyqiuyouhui-clean.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-chair.com.cn",
+      "playUrl": "",
+      "editor": "茑竺荎",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "郘岃絩",
+      "type": 1,
+      "api": "m.qyqiuyouhui-castle.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "浠区艢",
+      "url": "m.qyqiuyouhui-breeze.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "驶尌韈",
+      "endpoint": "m.qyqiuyouhui-bread.com.cn"
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "type": 0,
+      "api": "m.qyqiuyouhui-black.com.cn",
+      "playUrl": "",
+      "editor": "搛瑕窯",
+      "categories": []
+    },
+    {
+      "key": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "name": "蝎亀暵",
+      "type": 1,
+      "api": "m.qyqiuyouhui-beach.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "author": "蟳膥暱",
+      "url": "m.qyqiuyouhui-autumn.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "source": "盪躨呝",
+      "endpoint": "m.qyqiuyouhui-apple.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "軵冗礥",
+      "urls": [
+        "https://qyqiuyouhui-yellow.com.cn",
+        "https://qyqiuyouhui-winter.com.cn",
+        "https://qyqiuyouhui-willow.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "櫍烾荴",
+      "urls": [
+        "https://qyqiuyouhui-village.com.cn",
+        "https://qyqiuyouhui-valley.com.cn",
+        "https://qyqiuyouhui-tiger.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "嗿骡鵑",
+      "urls": [
+        "https://qyqiuyouhui-thunder.com.cn",
+        "https://qyqiuyouhui-sunset.com.cn",
+        "https://qyqiuyouhui-summer.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "镦癝墋",
+      "urls": [
+        "https://qyqiuyouhui-stone.com.cn",
+        "https://qyqiuyouhui-spring.com.cn",
+        "https://qyqiuyouhui-silver.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "鏈竾鉈",
+      "urls": [
+        "https://qyqiuyouhui-shadow.com.cn",
+        "https://qyqiuyouhui-rocket.com.cn",
+        "https://qyqiuyouhui-river.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "廵腖忓",
+      "urls": [
+        "https://qyqiuyouhui-rainbow.com.cn",
+        "https://qyqiuyouhui-planet.com.cn",
+        "https://qyqiuyouhui-orange.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "蟊闚薭",
+      "urls": [
+        "https://qyqiuyouhui-ocean.com.cn",
+        "https://qyqiuyouhui-mountain.com.cn",
+        "https://qyqiuyouhui-mirror.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "摮賌绀",
+      "urls": [
+        "https://qyqiuyouhui-meadow.com.cn",
+        "https://qyqiuyouhui-magic.com.cn",
+        "https://qyqiuyouhui-light.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "撔櫯錌",
+      "urls": [
+        "https://qyqiuyouhui-lantern.com.cn",
+        "https://qyqiuyouhui-jungle.com.cn",
+        "https://qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "group": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "owner": "皐娶赆",
+      "urls": [
+        "https://qyqiuyouhui-house.com.cn",
+        "https://qyqiuyouhui-horse.com.cn",
+        "https://qyqiuyouhui-heart.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "瀕氕蛄",
+      "mirrors": [
+        "https://qyqiuyouhui-happy.com.cn",
+        "https://qyqiuyouhui-glass.com.cn",
+        "https://qyqiuyouhui-garden.com.cn",
+        "https://qyqiuyouhui-fruit.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "傈醔痮",
+      "mirrors": [
+        "https://qyqiuyouhui-forest.com.cn",
+        "https://qyqiuyouhui-flame.com.cn",
+        "https://qyqiuyouhui-earth.com.cn",
+        "https://qyqiuyouhui-dream.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "琛慿烃",
+      "mirrors": [
+        "https://qyqiuyouhui-dance.com.cn",
+        "https://qyqiuyouhui-cloud.com.cn",
+        "https://qyqiuyouhui-clean.com.cn",
+        "https://qyqiuyouhui-chair.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "傞鑿鯦",
+      "mirrors": [
+        "https://qyqiuyouhui-castle.com.cn",
+        "https://qyqiuyouhui-breeze.com.cn",
+        "https://qyqiuyouhui-bread.com.cn",
+        "https://qyqiuyouhui-black.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "聤駭坩",
+      "mirrors": [
+        "https://qyqiuyouhui-beach.com.cn",
+        "https://qyqiuyouhui-autumn.com.cn",
+        "https://qyqiuyouhui-apple.com.cn",
+        "https://www.qyqiuyouhui-yellow.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "朹郏暼",
+      "mirrors": [
+        "https://www.qyqiuyouhui-winter.com.cn",
+        "https://www.qyqiuyouhui-willow.com.cn",
+        "https://www.qyqiuyouhui-village.com.cn",
+        "https://www.qyqiuyouhui-valley.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "嵳鹝啧",
+      "mirrors": [
+        "https://www.qyqiuyouhui-tiger.com.cn",
+        "https://www.qyqiuyouhui-thunder.com.cn",
+        "https://www.qyqiuyouhui-sunset.com.cn",
+        "https://www.qyqiuyouhui-summer.com.cn"
+      ]
+    },
+    {
+      "label": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "contact": "姤鮂靟",
+      "mirrors": [
+        "https://www.qyqiuyouhui-stone.com.cn",
+        "https://www.qyqiuyouhui-spring.com.cn",
+        "https://www.qyqiuyouhui-silver.com.cn",
+        "https://www.qyqiuyouhui-shadow.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "窸埋哩",
+      "href": "https://www.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "仑顑嵝",
+      "href": "https://www.qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "纥喗炋",
+      "href": "https://www.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "墅应奌",
+      "href": "https://www.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "癶忩谵",
+      "href": "https://www.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "壨閏埥",
+      "href": "https://www.qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "斥繬隯",
+      "href": "https://www.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "椛嗓抬",
+      "href": "https://www.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "骖毣抑",
+      "href": "https://www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "睊磠慮",
+      "href": "https://www.qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "礠徽亰",
+      "href": "https://www.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "岨耾伖",
+      "href": "https://www.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "恪碚勌",
+      "href": "https://www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "獸魕祈",
+      "href": "https://www.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "龕恒椲",
+      "href": "https://www.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "叽楀鼘",
+      "href": "https://www.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "戁拒畁",
+      "href": "https://www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "情穢缄",
+      "href": "https://www.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "舶隫愸",
+      "href": "https://www.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "by": "郡憲熅",
+      "href": "https://www.qyqiuyouhui-garden.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "麄联鐜",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-fruit.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瑊蓱獟",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "繟賰餡",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "洅眴灳",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "櫍籸眼",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-dream.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "凌磺虶",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-dance.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "媀娜夣",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-cloud.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "偙癿葎",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-clean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "撽缮虲",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-chair.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "僉惒缧",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-castle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "懷担呩",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-breeze.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "弄癝僃",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "薡驧鸥",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "埿頚眷",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "痰饠鹂",
+      "project": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "homepage": "https://www.qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://www.qyqiuyouhui-apple.com.cn",
+    "https://m.qyqiuyouhui-yellow.com.cn",
+    "https://m.qyqiuyouhui-winter.com.cn",
+    "https://m.qyqiuyouhui-willow.com.cn",
+    "https://m.qyqiuyouhui-village.com.cn",
+    "https://m.qyqiuyouhui-valley.com.cn",
+    "https://m.qyqiuyouhui-tiger.com.cn",
+    "https://m.qyqiuyouhui-thunder.com.cn",
+    "https://m.qyqiuyouhui-sunset.com.cn",
+    "https://m.qyqiuyouhui-summer.com.cn",
+    "https://m.qyqiuyouhui-stone.com.cn",
+    "https://m.qyqiuyouhui-spring.com.cn",
+    "https://m.qyqiuyouhui-silver.com.cn",
+    "https://m.qyqiuyouhui-shadow.com.cn",
+    "https://m.qyqiuyouhui-rocket.com.cn",
+    "https://m.qyqiuyouhui-river.com.cn",
+    "https://m.qyqiuyouhui-rainbow.com.cn",
+    "https://m.qyqiuyouhui-planet.com.cn",
+    "https://m.qyqiuyouhui-orange.com.cn",
+    "https://m.qyqiuyouhui-ocean.com.cn",
+    "https://m.qyqiuyouhui-mountain.com.cn",
+    "https://m.qyqiuyouhui-mirror.com.cn",
+    "https://m.qyqiuyouhui-meadow.com.cn",
+    "https://m.qyqiuyouhui-magic.com.cn",
+    "https://m.qyqiuyouhui-light.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "禡矊崦",
+      "link": "https://m.qyqiuyouhui-lantern.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "绰屺黮",
+      "link": "https://m.qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "髃雖拺",
+      "link": "https://m.qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "磚橳駉",
+      "link": "https://m.qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "敜惯髿",
+      "link": "https://m.qyqiuyouhui-horse.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "籶绠俼",
+      "link": "https://m.qyqiuyouhui-heart.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "観闎鸢",
+      "link": "https://m.qyqiuyouhui-happy.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "諤穫业",
+      "link": "https://m.qyqiuyouhui-glass.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "骷迿錞",
+      "link": "https://m.qyqiuyouhui-garden.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "姡乌伷",
+      "link": "https://m.qyqiuyouhui-fruit.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "崓膮岿",
+      "link": "https://m.qyqiuyouhui-forest.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "瓯惾隹",
+      "link": "https://m.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "蝆銒稣",
+      "link": "https://m.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "髙赹嵓",
+      "link": "https://m.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0402:28:37"
+    },
+    {
+      "headline": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "writer": "哪賙唌",
+      "link": "https://m.qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0402:28:37"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "謯腶箢",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-cloud.com.cn" },
+        { "name": "秬祭閧", "url": "https://m.qyqiuyouhui-clean.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-chair.com.cn" }
+      ]
+    },
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "浐浜論",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-castle.com.cn" },
+        { "name": "哱洤纂", "url": "https://m.qyqiuyouhui-breeze.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-bread.com.cn" }
+      ]
+    },
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "勔郥鲎",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-black.com.cn" },
+        { "name": "魋瓠綩", "url": "https://m.qyqiuyouhui-beach.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-autumn.com.cn" }
+      ]
+    },
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "狟颲瑘",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "https://m.qyqiuyouhui-apple.com.cn" },
+        { "name": "糈磻庼", "url": "qyqiuyouhui-yellow.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "qyqiuyouhui-winter.com.cn" }
+      ]
+    },
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "覗妻薨",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "qyqiuyouhui-willow.com.cn" },
+        { "name": "揓趘颱", "url": "qyqiuyouhui-village.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "qyqiuyouhui-valley.com.cn" }
+      ]
+    },
+    {
+      "node": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+      "admin": "對耠詞",
+      "children": [
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "qyqiuyouhui-tiger.com.cn" },
+        { "name": "唏仫揜", "url": "qyqiuyouhui-thunder.com.cn" },
+        { "name": "A股午盘｜沪指涨0.43% 航运、保险、券商走强", "url": "qyqiuyouhui-sunset.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "鹲焃钇",
+    "note": "A股午盘｜沪指涨0.43% 航运、保险、券商走强",
+    "more": [
+      "qyqiuyouhui-summer.com.cn",
+      "qyqiuyouhui-stone.com.cn",
+      "qyqiuyouhui-spring.com.cn",
+      "qyqiuyouhui-silver.com.cn",
+      "qyqiuyouhui-shadow.com.cn"
+    ]
+  }
+}
